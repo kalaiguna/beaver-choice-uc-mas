@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Local environment and generated files
+.venv/
+__pycache__/
+*.db
+run_log.txt
+
+# Documentation helper (the submission is a single Python file)
+make_diagram.py

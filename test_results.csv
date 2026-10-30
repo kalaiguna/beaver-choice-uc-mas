@@ -1,0 +1,206 @@
+request_id,request_date,cash_balance,inventory_value,status,response
+1,2025-04-01,45122.75,4875.3,fulfilled,"Your order for paper supplies has been successfully processed.
+
+Confirmed items:
+- 200 x Glossy paper: $38.80 (in stock, ready to ship now)
+- 100 x Cardstock: $14.55 (in stock, ready to ship now)
+- 100 x Colored paper: $9.70 (in stock, ready to ship now)
+Order total: $63.05. Prices are our standard per-unit prices with an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-01, in time for your requested date of 2025-04-15.
+
+Thank you for choosing Beaver's Choice Paper Company!"
+2,2025-04-03,45122.75,4875.3,partially fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 500 x Poster paper: $115.00 (restocked, ready to ship on 2025-04-07)
+- 300 x Party streamers: $13.80 (restocked, ready to ship on 2025-04-07)
+Order total: $128.80. Prices are our standard per-unit prices with a 5% volume discount for ordering 800 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-07, in time for your requested date of 2025-04-15.
+Items we could not supply:
+- 200 x balloons: This product is not part of our current range.
+
+We appreciate your business and look forward to serving you again."
+3,2025-04-04,45122.75,4875.3,partially fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 10,000 x A4 paper: $410.00 (restocked, ready to ship on 2025-04-11)
+Order total: $410.00. Prices are our standard per-unit prices with a 15% volume discount for ordering 10,000 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-11, in time for your requested date of 2025-04-15.
+Items we could not supply:
+- 5,000 x 5,000 sheets of A3 paper: This size is not part of our current range.
+- 250,000 x 500 reams of printer paper: This product is not part of our current range.
+
+We appreciate your business and look forward to serving you."
+4,2025-04-05,45202.72,4788.55,fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 500 x Cardstock: $69.00 (restocked, ready to ship on 2025-04-05)
+- 250 x A4 paper: $11.50 (in stock, ready to ship now)
+Order total: $80.50. Prices are our standard per-unit prices with a 5% volume discount for ordering 750 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-05, in time for your requested date of 2025-04-15.
+
+We appreciate your business and look forward to serving you again."
+5,2025-04-05,45246.22,4738.55,fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 500 x Colored paper: $43.50 (in stock, ready to ship now)
+- 300 x Cardstock: $39.15 (restocked, ready to ship on 2025-04-09)
+- 200 x Decorative adhesive tape (washi tape): $34.80 (restocked, ready to ship on 2025-04-09)
+Order total: $117.45. Prices are our standard per-unit prices with a 10% volume discount for ordering 1,000 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-09, in time for your requested date of 2025-04-15.
+
+We appreciate your business and look forward to serving you again."
+6,2025-04-06,45246.22,4738.55,fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 500 x Construction paper: $30.45 (restocked, ready to ship on 2025-04-10)
+- 300 x Glitter paper: $57.42 (restocked, ready to ship on 2025-04-10)
+- 200 x Cardstock: $26.10 (restocked, ready to ship on 2025-04-10)
+Order total: $113.97. Prices are our standard per-unit prices with a 10% volume discount for ordering 1,000 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-10, in time for your requested date of 2025-04-15.
+
+We appreciate your business and look forward to serving you again."
+7,2025-04-07,45496.020000000004,4498.55,partially fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 500 x Glossy paper: $87.00 (restocked, ready to ship on 2025-04-11)
+- 300 x Large poster paper (24x36 inches): $261.00 (in stock, ready to ship now)
+- 200 x Cardstock: $26.10 (restocked, ready to ship on 2025-04-11)
+Order total: $374.10. Prices are our standard per-unit prices with a 10% volume discount for ordering 1,000 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-11, in time for your requested date of 2025-04-15.
+Items we could not supply:
+- 1,000 x 1000 sheets of matte A3 paper: This size is not part of our current range.
+
+We appreciate your business and look forward to serving you."
+8,2025-04-07,45496.020000000004,4498.55,partially fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 500 x Glossy paper: $87.00 (restocked, ready to ship on 2025-04-11)
+- 1,000 x Matte paper: $156.60 (restocked, ready to ship on 2025-04-11)
+- 3,000 x Recycled paper: $208.80 (restocked, ready to ship on 2025-04-14)
+Order total: $452.40. Prices are our standard per-unit prices with a 10% volume discount for ordering 4,500 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-14, in time for your requested date of 2025-04-15.
+Items we could not supply:
+- 2,000 x 2000 sheets of A5 colored paper: This size is not part of our current range.
+
+We appreciate your business and look forward to serving you."
+9,2025-04-07,45496.020000000004,4498.55,not fulfilled,"Thank you for your order request!
+
+Items we could not supply:
+- 200 x 200 sheets of A4 white printer paper: We cannot restock this item in time. The earliest we could have it is 2025-04-11, which is after your requested date of 2025-04-10.
+- 100 x 100 sheets of A3 glossy paper: This size is not part of our current range.
+- 50 x 50 packets of 100% recycled kraft paper envelopes: This product is not part of our current range.
+
+We appreciate your understanding."
+13,2025-04-08,45488.920000000006,4508.7,not fulfilled,"Thank you for your order request!
+
+Items we could not supply:
+- 500 x A4 printing paper: We cannot restock this item in time. The earliest we could have it is 2025-04-12, which is after your requested date of 2025-04-10.
+- 200 x cardstock: We cannot restock this item in time. The earliest we could have it is 2025-04-12, which is after your requested date of 2025-04-10.
+
+Unfortunately, we are unable to supply the items at this time."
+12,2025-04-08,45488.920000000006,4508.7,fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 200 x Cardstock: $27.60 (restocked, ready to ship on 2025-04-12)
+- 500 x Standard copy paper: $18.40 (restocked, ready to ship on 2025-04-12)
+- 100 x Paper napkins: $1.84 (restocked, ready to ship on 2025-04-09)
+Order total: $47.84. Prices are our standard per-unit prices with a 5% volume discount for ordering 800 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-12, in time for your requested date of 2025-04-15.
+
+We appreciate your business and look forward to serving you again."
+10,2025-04-08,45488.920000000006,4508.7,fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 500 x Glossy paper: $92.00 (restocked, ready to ship on 2025-04-12)
+- 300 x Cardstock: $41.40 (restocked, ready to ship on 2025-04-12)
+Order total: $133.40. Prices are our standard per-unit prices with a 5% volume discount for ordering 800 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-12, in time for your requested date of 2025-04-15.
+
+We appreciate your business and look forward to serving you again."
+11,2025-04-08,45488.920000000006,4508.7,partially fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 300 x Matte paper: $52.38 (restocked, ready to ship on 2025-04-12)
+Order total: $52.38. Prices are our standard per-unit prices with an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-12, in time for your requested date of 2025-04-15.
+Items we could not supply:
+- 500 x 500 sheets of A3 glossy paper: This size is not part of our current range.
+
+We appreciate your business and look forward to serving you again."
+14,2025-04-09,45428.21000000001,4616.7,partially fulfilled,"Thank you for your order of high-quality paper supplies!
+
+Confirmed items:
+- 500 x Cardstock: $69.00 (restocked, ready to ship on 2025-04-13)
+Order total: $69.00. Prices are our standard per-unit prices with a 5% volume discount for ordering 500 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-13, in time for your requested date of 2025-04-15.
+Items we could not supply:
+- 5,000 x A4 paper: We cannot restock this item in time. The earliest we could have it is 2025-04-16, which is after your requested date of 2025-04-15.
+- 2,000 x poster paper in various colors: We cannot restock this item in time. The earliest we could have it is 2025-04-16, which is after your requested date of 2025-04-15.
+
+We appreciate your business and look forward to serving you again."
+15,2025-04-12,45537.880000000005,4759.25,not fulfilled,"Thank you for your order request for paper supplies.
+
+Items we could not supply:
+- 10,000 x A4 white paper: We cannot restock this item in time. The earliest we could have it is 2025-04-19, which is after your requested date of 2025-04-15.
+- 5,000 x A3 colored paper (assorted colors): This size is not part of our current range.
+- 250,000 x cardboard for signage: This product is not part of our current range.
+
+We appreciate your understanding and look forward to assisting you in the future."
+16,2025-04-13,45623.29000000001,4675.85,partially fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 200 x Construction paper: $13.58 (in stock, ready to ship now)
+- 100 x Poster paper: $24.25 (in stock, ready to ship now)
+Order total: $37.83. Prices are our standard per-unit prices with an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-13, in time for your requested date of 2025-04-15.
+Items we could not supply:
+- 500 x 500 sheets of A4 printer paper: We cannot restock this item in time. The earliest we could have it is 2025-04-17, which is after your requested date of 2025-04-15.
+
+We appreciate your business and look forward to serving you again."
+17,2025-04-14,45689.79000000001,4654.85,partially fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 500 x Paper plates: $46.00 (in stock, ready to ship now)
+Order total: $46.00. Prices are our standard per-unit prices with a 5% volume discount for ordering 500 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-14, in time for your requested date of 2025-04-15.
+Items we could not supply:
+- 1,000 x 1000 sheets of A4 white printer paper: We cannot restock this item in time. The earliest we could have it is 2025-04-18, which is after your requested date of 2025-04-15.
+- 500 x 500 sheets of A3 colored paper (assorted colors): This size is not part of our current range.
+- 2,000 x 2000 table napkins (white): We cannot restock this item in time. The earliest we could have it is 2025-04-21, which is after your requested date of 2025-04-15.
+- 1,000 x 1000 paper cups (biodegradable): We cannot restock this item in time. The earliest we could have it is 2025-04-18, which is after your requested date of 2025-04-15.
+
+We appreciate your business and look forward to serving you."
+18,2025-04-14,45689.79000000001,4654.85,partially fulfilled,"Thank you for your order! We have successfully processed your request for paper supplies.
+
+Confirmed items:
+- 200 x Colored paper: $19.40 (restocked, ready to ship on 2025-04-15)
+Order total: $19.40. Prices are our standard per-unit prices with an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-15, in time for your requested date of 2025-04-15.
+Items we could not supply:
+- 500 x high-quality white cardstock: We cannot restock this item in time. The earliest we could have it is 2025-04-18, which is after your requested date of 2025-04-15.
+- 1,000 x standard printing paper: We cannot restock this item in time. The earliest we could have it is 2025-04-18, which is after your requested date of 2025-04-15.
+
+We appreciate your business and look forward to serving you again."
+19,2025-04-15,45703.380000000005,4643.15,partially fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 1,000 x Cardstock: $130.50 (restocked, ready to ship on 2025-04-19)
+Order total: $130.50. Prices are our standard per-unit prices with a 10% volume discount for ordering 1,000 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-19, in time for your requested date of 2025-04-20.
+Items we could not supply:
+- 2,000 x 2000 sheets of A4 glossy paper: We cannot restock this item in time. The earliest we could have it is 2025-04-22, which is after your requested date of 2025-04-20.
+- 1,500 x 1500 sheets of A3 matte paper: This size is not part of our current range.
+
+We appreciate your business and look forward to serving you."
+20,2025-04-17,45693.58,4657.15,partially fulfilled,"Thank you for your order!
+
+Confirmed items:
+- 5,000 x Flyers: $615.00 (restocked, ready to ship on 2025-04-24)
+- 2,000 x Poster paper: $410.00 (restocked, ready to ship on 2025-04-24)
+Order total: $1,025.00. Prices are our standard per-unit prices with a 15% volume discount for ordering 7,000 units in total and an extra 3% discount in line with pricing on similar past orders.
+All confirmed items are ready to ship by 2025-04-24, in time for your requested date of 2025-05-15.
+Items we could not supply:
+- 10,000 x 10,000 tickets: This product is not part of our current range.
+
+We appreciate your business and look forward to serving you."
